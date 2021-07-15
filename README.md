@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @carokrny
+- 👀 I’m interested in true crime, growing plants, and trying new cooking recipes. 
+- 🌱 I’m currently learning fullstack development. 
+- 💞️ I’m looking to collaborate on other dev projects. 
+- 📫 Reach me at carolynkrny@gmail.com
