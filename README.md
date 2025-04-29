@@ -7,9 +7,9 @@
 
 ## A little about me
 
-- 👀  I'm disabled and visually impaired and use adapive technology to code. 
-- 📃  Previously a patent agent, prosecuting software and hardware patents
-- 👩🏼‍🎓 Penn Engineering '18
+- 👀  I learned to code while I was recovering from brain surgery using adapive technologies like screen readers. 
+- 📃  I'm a patent agent, prosecuting software and hardware patents. Reach out if you have an invention!
+- 👩🏼‍🎓  Penn Engineering '18
 
 ## Connect with me
 
